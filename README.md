@@ -36,4 +36,5 @@
   | :soon: soon | HTML & CSS |
   | :soon: soon | JS Front - End - SoftUni |
 
+
 ![Edgar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyankov98&theme=tokyonight)
