@@ -23,8 +23,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-  | Certificates  | Courses            |
-  | ------------- | -------------      |
+  | Certificates  | Courses       |
+  | ------------- | ------------- |
   | [:heavy_check_mark: C# Basics](https://softuni.bg/certificates/details/162310/720ef3a1) | C# Basics - SoftUni | 
   | [:heavy_check_mark: C# Fundamentals](https://softuni.bg/certificates/details/166764/dda6e59a) | C# Fundamentals - SoftUni |
   | [:heavy_check_mark: C# Advanced](https://softuni.bg/certificates/details/173732/ca347b81) | C# Advanced - SoftUni |
