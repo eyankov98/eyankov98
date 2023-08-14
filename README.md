@@ -21,7 +21,7 @@ Hi there 👋
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<div align="center">
+<div>
   <img style="margin: 10px" src="https://github.com/eyankov98/edgaryankov/assets/122820733/0d066d76-50f0-495d-bc6b-a38dec555332.png" height="350" />
   <img style="margin: 10px" src="https://github.com/eyankov98/edgaryankov/assets/122820733/80e575c3-0898-4f07-9991-bb06f68525e2.png" height="350" />
   <img style="margin: 10px" src="https://github.com/eyankov98/edgaryankov/assets/122820733/6531d1b8-2264-41c8-b62c-727f7b5d9532.png" height="350" />
