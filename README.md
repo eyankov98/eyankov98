@@ -31,7 +31,7 @@
   | [:heavy_check_mark: C# OOP](https://softuni.bg/certificates/details/181192/5911c1c0) | C# OOP - SoftUni |
   | :soon: soon | MY SQL - SoftUni |
   | :soon: soon | ENITY FRAMEWIRK - SoftUni |
-  | :soon: soon | ASP.NET Fundamentals-SoftUni |
+  | :soon: soon | ASP.NET Fundamentals - SoftUni |
   | :soon: soon | ASP.NET Advanced - SoftUni |
   | :soon: soon | HTML & CSS |
   | :soon: soon | JS Front - End - SoftUni |
