@@ -29,7 +29,7 @@
   | [:heavy_check_mark: C# Fundamentals](https://softuni.bg/certificates/details/166764/dda6e59a) | C# Fundamentals - SoftUni |
   | [:heavy_check_mark: C# Advanced](https://softuni.bg/certificates/details/173732/ca347b81) | C# Advanced - SoftUni |
   | [:heavy_check_mark: C# OOP](https://softuni.bg/certificates/details/181192/5911c1c0) | C# OOP - SoftUni |
-  | :soon: soon | MY SQL - SoftUni |
+  | [:heavy_check_mark: MS SQL](https://softuni.bg/certificates/details/185714/742540c7) | MS SQL - SoftUni |
   | :soon: soon | ENITY FRAMEWIRK - SoftUni |
   | :soon: soon | ASP.NET Fundamentals - SoftUni |
   | :soon: soon | ASP.NET Advanced - SoftUni |
