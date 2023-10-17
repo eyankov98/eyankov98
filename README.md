@@ -31,7 +31,7 @@
   | [:heavy_check_mark: C# Advanced](https://softuni.bg/certificates/details/173732/ca347b81) | C# Advanced - SoftUni |
   | [:heavy_check_mark: C# OOP](https://softuni.bg/certificates/details/181192/5911c1c0) | C# OOP - SoftUni |
   | [:heavy_check_mark: MS SQL](https://softuni.bg/certificates/details/185714/742540c7) | MS SQL - SoftUni |
-  | :soon: soon | Entity Framework - SoftUni |
+  | :soon: soon | ENTITY FRAMEWORK - SoftUni |
   | :soon: soon | ASP.NET Fundamentals - SoftUni |
   | :soon: soon | ASP.NET Advanced - SoftUni |
   | :soon: soon | HTML & CSS |
