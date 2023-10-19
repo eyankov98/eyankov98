@@ -19,7 +19,7 @@
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="50" height="50"/>&nbsp;
-<img src="https://ambassadorcontrols.com/Content/Images/SQL-Server-Management-Studio-Logo.png" title="MS SQL" alt="MS SQL" width="70" height="70"/>&nbsp;
+<img src="https://ambassadorcontrols.com/Content/Images/SQL-Server-Management-Studio-Logo.png" title="MS SQL" alt="MS SQL" width="60" height="60"/>&nbsp;
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
