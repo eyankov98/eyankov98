@@ -37,11 +37,5 @@
   | :soon: soon | HTML & CSS |
   | :soon: soon | JS Front - End - SoftUni |
 
-
-![Edgar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyankov98&theme=tokyonight)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyankov98&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="eyankov98" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyankov98&show_icons=true&locale=en" alt="eyankov98" /></p>
-
-<p>&nbsp;<img" src="https://github-readme-stats.vercel.app/api?username=eyankov98&show_icons=true&locale=en" alt="eyankov98" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eyankov98&theme=tokyonight_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eyankov98&theme=tokyonight)
