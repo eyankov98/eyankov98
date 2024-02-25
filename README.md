@@ -38,4 +38,4 @@
   | :soon: soon | JS Front - End - SoftUni |
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=eyankov98&theme=tokyonight&show_icons=true&locale=en&layout=compact)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eyankov98&theme=tokyonight)
+![](https://https://github-readme-stats.vercel.app/api?username=eyankov98&theme=tokyonight&show_icons=true&locale=en")
