@@ -39,4 +39,9 @@
 
 
 ![Edgar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyankov98&theme=tokyonight)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyankov98&show_icons=true&locale=en&layout=compact" alt="eyankov98" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyankov98&show_icons=true&locale=en" alt="eyankov98" /></p>
+
 <p>&nbsp;<img" src="https://github-readme-stats.vercel.app/api?username=eyankov98&show_icons=true&locale=en" alt="eyankov98" /></p>
